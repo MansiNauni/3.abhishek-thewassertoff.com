@@ -7,4 +7,4 @@ FOR RUNNING THIS PROJECT LOCALLY:
 2. Open Terminal and write command npm install, in case npm package is not there.
 3.  Then in terminal write command npm run dev, a https link will appear. Click on the link and the project will open on localhost.
 4.  For using weather App type any city name and click search icon. All weather related data will display.
-5.  for converting data into Fehrenheit or Celcius can click the button aside the search icon.
+5.  for converting data into Fehrenheit or Celsius can click the button aside the search icon.
