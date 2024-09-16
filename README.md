@@ -1,4 +1,4 @@
-# 3.abhishek-thewassertoff.com
+
 This is a weather app using Html,CSS,Javascript and Reactjs.
 This is basically fetching data from openweather API. The API is fetching next five days weather forecast and displays temperature description and icon.
 
